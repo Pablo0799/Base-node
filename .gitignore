@@ -1,0 +1,10 @@
+#Archivos que se va a ignorar en mi repositorio de GIT
+
+node_modules/
+
+/salida/*.txt
+
+
+
+
+
